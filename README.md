@@ -27,16 +27,16 @@ This project integrates multiple APIs and uses a Node/Express back-end, with Axi
 ## Screenshots:
 
 Our homepage is our login and register page.  If the user doesn’t have an account, they are asked to register.
-![Alt Text](url)
+![Login page](https://github.com/anmerfrank/ToDoProject/blob/master/docs/login.jpg)
 
 Your Lists:
 What interests you?  Search for books, films, restaurants, and products that you would like to add to your lists.
 The search page also displays the previous items that you’ve added to each category.  In each list, you’ll see different information about the items you’ve added.  For example, in the "Books" category, you’ll see the title, author, rating, and its page length.
-![Alt Text](url)
+![My List](https://github.com/anmerfrank/ToDoProject/blob/master/docs/my-list.jpg)
 
 Search Page:
 Is this what you were looking for?  Add this item to your list by pressing the ‘add this item’ button at the bottom of the page.
-![Alt Text](url)
+![Search page](https://github.com/anmerfrank/ToDoProject/blob/master/docs/search-results.jpg)
 
 
 
